@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW4_C\\task2\\task2.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW5_C\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW4_C\\task2\\task2.csproj": {
+    "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW5_C\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW4_C\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW5_C\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW4_C\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW5_C\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW4_C\\task2\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\GB Tester\\csharp\\HW5_C\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
